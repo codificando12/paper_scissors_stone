@@ -1,0 +1,1 @@
+This is a simple project paper-scissors-stone game
